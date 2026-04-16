@@ -31,6 +31,20 @@ foco:       GRC | Blue Team | SOC
 
 ---
 
+## 🧠 Security Mindset
+
+Em meus projetos, adoto uma abordagem orientada a investigação:
+
+- Identificação de anomalias em tráfego de rede  
+- Validação de hipóteses em cenários de falhas  
+- Análise de impacto em infraestrutura simulada  
+- Aplicação de controles básicos de mitigação  
+- Referência a boas práticas de segurança baseadas em frameworks como **NIST CSF** e **CIS Controls**, além de conceitos de **GRC** aplicados à estruturação de controles e riscos  
+
+Foco em entender o comportamento do ambiente antes da ferramenta.
+
+---
+
 ## 🛡️ Áreas de interesse
 
 - **Blue Team & SOC** — monitoramento, detecção e resposta a incidentes
