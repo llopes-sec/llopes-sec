@@ -3,12 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header" width="100%"/>
 
 # Lucas Lopes
-### Consultor de TI · Estudante de Defesa Cibernética · Blue Team
+### Consultor de TI · Estudante de Defesa Cibernética 
 
 <p>
-  Apaixonado por segurança da informação, forense digital e proteção de infraestruturas.<br/>
-  Atualmente cursando <strong>Defesa Cibernética</strong> na Faculdade Impacta Tecnologia.<br/>
-  Focado em construir uma carreira sólida em <strong>Blue Team</strong>, análise de ameaças e resposta a incidentes.
+Estudante de <strong>Defesa Cibernética</strong> na Faculdade Impacta Tecnologia, com interesse em redes, segurança da informação e proteção de infraestruturas.
+<br/><br/>
+Atualmente desenvolvo projetos práticos em laboratório, simulando cenários de troubleshooting, análise de tráfego e fundamentos de segurança em ambientes controlados.
+<br/><br/>
+Tenho foco em aprofundar conhecimentos em <strong>Blue Team</strong>, especialmente em análise de incidentes, monitoramento de rede e resposta a eventos de segurança.
 </p>
 
 </div>
@@ -67,34 +69,11 @@ foco:       GRC | Blue Team | SOC
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=github_dark&hide_border=true&locale=pt-br)
-
-</div>
-
----
-
-## 📚 Em desenvolvimento
-
-| Área | Recurso | Status |
-|---|---|---|
-| GRC | ISO 27001 | 🔄 Em andamento |
-| GRC | NIST CSF | 🔄 Em andamento |
-| GRC | CIS Controls | 🔄 Em andamento |
-| Hacking Ético | TryHackMe | 🔄 Em andamento |
-| Forense | Análise de logs | 🔄 Em andamento |
-
----
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lopes-823530202/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llopes.sec@gmail.com)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" width="100%"/>
