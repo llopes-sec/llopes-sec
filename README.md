@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001f3f,100:0077ff&height=40&section=header&text=&fontSize=0" width="100%"/>
+</div>
+
+<div align="center">
 
 # Lucas Lopes
 ### Consultor de TI · Estudante de Defesa Cibernética 
@@ -73,4 +77,6 @@ foco:       GRC | Blue Team | SOC
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lopes-823530202/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llopes.sec@gmail.com)
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001f3f,100:0077ff&height=40&section=footer&text=&fontSize=0" width="100%"/>
+</div>
