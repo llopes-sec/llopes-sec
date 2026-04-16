@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001f3f,100:0077ff&height=40&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:00b4d8&height=6&section=header" width="100%"/>
 </div>
 
 <div align="center">
@@ -78,5 +78,5 @@ foco:       GRC | Blue Team | SOC
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llopes.sec@gmail.com)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001f3f,100:0077ff&height=40&section=footer&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:00b4d8&height=6&section=footer" width="100%"/>
 </div>
