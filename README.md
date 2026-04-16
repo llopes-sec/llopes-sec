@@ -22,7 +22,7 @@ nome:       Lucas Lopes
 localização: Duque de Caxias, RJ — Brasil
 formação:   Defesa Cibernética · Faculdade Impacta Tecnologia
 atuação:    Consultor Comercial de TI · Prover Software House
-foco:       Blue Team | Forense Digital | GRC | Análise de Ameaças
+foco:       GRC | Blue Team | SOC
 ```
 
 ---
