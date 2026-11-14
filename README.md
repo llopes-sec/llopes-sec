@@ -75,33 +75,6 @@ Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=k
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
 
-## 🔬 Laboratórios e projetos práticos
-
-Este GitHub é meu espaço de documentação técnica, onde registro
-experimentos práticos, investigações, laboratórios e projetos
-relacionados à cibersegurança.
-
-  ------------------------------------------------------------------------------------------------
-  Repositório                                                  Área de atuação
-  ------------------------------------------------------------ -----------------------------------
-  [Network Security                                            Análise e segurança de redes
-  Labs](https://github.com/llopes-sec/network-security-labs)   
-
-  [Linux Security                                              Administração e hardening Linux
-  Labs](https://github.com/llopes-sec/linux-security-labs)     
-
-  [Blue Team                                                   Segurança defensiva e monitoramento
-  Labs](https://github.com/llopes-sec/blue-team-labs)          
-
-  [Security                                                    Pesquisas técnicas e write-ups de
-  Research](https://github.com/llopes-sec/security-research)   CTF
-
-  [Cybersecurity                                               Estudos e documentação técnica
-  Notes](https://github.com/llopes-sec/cybersecurity-notes)    
-  ------------------------------------------------------------------------------------------------
-
-*Os projetos serão desenvolvidos e documentados progressivamente.*
-
 ## 🎓 Formação e aprendizado
 
 **Tecnólogo em Defesa Cibernética**\
