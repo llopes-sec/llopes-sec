@@ -25,7 +25,6 @@ Meu objetivo é desenvolver uma base técnica estruturada e aprofundar minhas ha
 nome:       Lucas Lopes
 formação:   Defesa Cibernética · Faculdade Impacta Tecnologia
 atuação:    Analista de Redes · Techub
-foco:       Network Security | Blue Team | CTI
 ```
 
 ---
@@ -83,7 +82,6 @@ Impacta Tecnologia \| 2025 -- 2028
 **Estudos atuais**
 
 -   Segurança de Redes
--   Segurança Linux
 -   Security Operations (SOC)
 -   Metodologias Blue Team
 -   Threat Intelligence
